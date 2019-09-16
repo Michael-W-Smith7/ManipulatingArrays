@@ -1,0 +1,7 @@
+C:\Users\SnAG Mobile\Desktop\files\Visual Studios\Manipulating Arrays\bin\Debug\Manipulating Arrays.exe.config
+C:\Users\SnAG Mobile\Desktop\files\Visual Studios\Manipulating Arrays\bin\Debug\Manipulating Arrays.exe
+C:\Users\SnAG Mobile\Desktop\files\Visual Studios\Manipulating Arrays\bin\Debug\Manipulating Arrays.pdb
+C:\Users\SnAG Mobile\Desktop\files\Visual Studios\Manipulating Arrays\obj\Debug\Manipulating Arrays.csprojAssemblyReference.cache
+C:\Users\SnAG Mobile\Desktop\files\Visual Studios\Manipulating Arrays\obj\Debug\Manipulating Arrays.csproj.CoreCompileInputs.cache
+C:\Users\SnAG Mobile\Desktop\files\Visual Studios\Manipulating Arrays\obj\Debug\Manipulating Arrays.exe
+C:\Users\SnAG Mobile\Desktop\files\Visual Studios\Manipulating Arrays\obj\Debug\Manipulating Arrays.pdb
